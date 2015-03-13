@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{EB551306-F68E-4514-A771-00DB354AB4AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NugetServer", "src\NugetServer\NugetServer.csproj", "{CE937D5C-4612-4DA5-ACF2-8A5E176877FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE937D5C-4612-4DA5-ACF2-8A5E176877FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE937D5C-4612-4DA5-ACF2-8A5E176877FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE937D5C-4612-4DA5-ACF2-8A5E176877FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE937D5C-4612-4DA5-ACF2-8A5E176877FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CE937D5C-4612-4DA5-ACF2-8A5E176877FE} = {EB551306-F68E-4514-A771-00DB354AB4AC}
+	EndGlobalSection
+EndGlobal
